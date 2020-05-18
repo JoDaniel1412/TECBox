@@ -1,0 +1,9 @@
+[submodule "TECBoxWeb"]
+	path = TECBoxWeb
+	url = https://github.com/JoDaniel1412/TECBoxWeb
+[submodule "TECBoxService"]
+	path = TECBoxService
+	url = https://github.com/JoDaniel1412/TECBoxService
+[submodule "TECBoxMobile"]
+	path = TECBoxMobile
+	url = https://github.com/JoDaniel1412/TECBoxMobile
