@@ -12,6 +12,9 @@
 * [TECBoxService](https://github.com/JoDaniel1412/TECBoxService/releases)
 * [TECBoxMobile](https://github.com/JoDaniel1412/TECBoxMobile/releases)
 
+## Dependencies
+* [IIS URL-Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite)
+
 ## Documentation
 * [Installation manual](doc/Installation%20manual.pdf)
 * [User manual](doc/User%20manual.pdf)
